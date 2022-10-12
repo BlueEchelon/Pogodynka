@@ -1,0 +1,16 @@
+{
+    "name": "mmielnikiewicz/pogodynka",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mmielnikiewicz\\Pogodynka\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mikołaj Mielnikiewicz"
+        }
+    ],
+    "require": {}
+}
